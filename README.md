@@ -6,23 +6,20 @@
 
 🖐🏾 **Full Stack Developer & Project Designer** 👨🏾‍💻🖌️  
 📍 Based in Addis Ababa, Ethiopia ✨  
-🌱 Currently working on **Full Stack projects** and exploring ideas to **create a startup** 🚀  
+🌱 Currently working on Full Stack projects  🚀  
 
 <h1 align="center"> About Me</h1>
-I am a **Computer Engineering graduate (Computer Stream)** from **Jimma University**, Ethiopia.  
+I am a Electrical and Computer Engineering graduate (Computer Engineering Stream) from Jimma University, Ethiopia.  
 
 I am passionate about learning, solving challenging problems, and contributing to impactful projects that blend software and hardware solutions.  
 
-My goal is to **continuously grow my skills**, collaborate with like-minded developers, and eventually launch my **own tech startup** 🚀.
-
-![Jimma University](https://img.shields.io/badge/🎓-Jimma_University-0047AB?style=for-the-badge)
-![Computer Engineering](https://img.shields.io/badge/💻-Computer_Engineering-00FFAA?style=for-the-badge)
+My goal is to continuously grow my skills and collaborate with like-minded developers 🚀.
 
 ## 🤝 Collaboration & Projects
 🤝🏾 Open for collaborations and brainstorming innovative tech solutions  
-💻 Focused on improving skills, building meaningful projects, and preparing for a future startup 💡  
-⌨️ I enjoy tackling **challenging code problems** and solving complex programming puzzles 🧩  
-⚡️ Fun fact: I am passionate about **Math challenges** 📐 and **Aerospace exploration** 🚀🛸  
+💻 Focused on improving skills and building meaningful projects   
+⌨️ I enjoy tackling challenging code problems and solving complex programming puzzles 🧩  
+⚡️ Fun fact: I am passionate about Math challenges 📐 and Aerospace exploration 🚀🛸  
 🗣 I am a junior developer 🌱, constantly learning and growing in the tech industry 🌟  
 
 ---
@@ -70,8 +67,6 @@ My goal is to **continuously grow my skills**, collaborate with like-minded deve
 - **Smart Wearable:** Elderly health monitoring & fall detection system  
 - **Real-time Chat App:** Full-featured MERN stack chat application  
 - **Automatic Meter Reading (AMR) System:** Integrated image capture, AI data extraction, billing, and dashboard  
-- **Startup Ideas:** Planning and prototyping tech solutions for future startup 🚀  
-
 ---
 
 ## 📈 GitHub Stats
